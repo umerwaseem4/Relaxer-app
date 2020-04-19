@@ -1,4 +1,4 @@
-# Relaxer apo in Javascript
+# Relaxer app in Javascript
 
 ### IN this app:
 
